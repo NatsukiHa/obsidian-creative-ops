@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+qa-vault/
+main.js
+*.map
+data.json
+.env
+.env.*
+!.env.example
+coverage/
+release-assets/
+.DS_Store

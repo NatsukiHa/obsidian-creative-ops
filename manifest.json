@@ -1,0 +1,9 @@
+{
+  "id": "creative-ops",
+  "name": "Creative Ops",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Local-first creative project workflow views and data-quality checks for Markdown notes.",
+  "author": "Natsuki",
+  "isDesktopOnly": false
+}
