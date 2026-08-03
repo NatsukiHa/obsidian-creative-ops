@@ -157,6 +157,7 @@ See [the privacy details](docs/privacy.md) and [security policy](SECURITY.md).
 ## Development installation
 
 Use a dedicated development vault, not a real vault with important notes.
+Node.js 22.13 or later and pnpm 11.9 are required for the development tools.
 
 1. Install dependencies with `pnpm install --ignore-scripts`.
 2. Build with `pnpm run build`.

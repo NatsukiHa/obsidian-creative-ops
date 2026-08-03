@@ -16,7 +16,7 @@
     "check:release": "node scripts/release-check.mjs"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=22.13.0"
   },
   "devDependencies": {
     "@eslint/js": "9.39.4",

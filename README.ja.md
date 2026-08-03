@@ -118,6 +118,7 @@ Summary は問題を表示しますが、自動では修正しません。内容
 ## 開発版の読み込み
 
 実際の Vault ではなく、専用の開発 Vault で確認してください。
+開発ツールには Node.js 22.13 以降と pnpm 11.9 が必要です。
 
 1. `pnpm install --ignore-scripts`
 2. `pnpm run build`
